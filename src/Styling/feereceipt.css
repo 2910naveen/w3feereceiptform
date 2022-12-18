@@ -1,0 +1,141 @@
+
+input[type=text]:focus{
+    outline:none;
+}
+
+.name{
+    margin-left:0px;
+    font-weight:bold;
+    margin-right:10px;
+    font-size: 17px;
+}
+
+.inputstyle{
+    border:0px;
+    border-bottom: 2px dotted black;
+    width:81%;
+}
+
+.dateinput{
+    border:0px;
+    border-bottom: 2px dotted black;
+}
+
+.coursestyle{
+    border:0px;
+    border-bottom: 2px dotted black;
+    width:88%;
+}
+
+.receipt{
+    font-weight:bold;
+    margin-right:5px;
+    font-size:17px;
+}
+
+.receiptinput{
+    margin-right:30px;
+    border:2px solid black;
+    border-radius:2px;
+    width:100px;
+    padding:5px 5px;
+}
+
+.rupeesinwordsinputstyle{
+    border:0px;
+    border-bottom: 2px dotted black;
+    width:78%;
+}
+
+.rupeesinput{
+    border:2px solid black;
+    padding:5px 5px;
+    width:250px;
+}
+
+.inputdivs{
+    margin:25px 5px;
+}
+
+.submitbutton{
+    width:150px;
+    height:40px;
+    background-color:#cacaeb;
+    border-radius:5px;
+    color:white;
+    border:0px;
+    font-weight:bold;
+    font-size:15px;
+    margin-bottom:10px;
+}
+
+.submitbutton:hover{
+    cursor: pointer;
+    background-color:#5151c1;
+}
+
+.signature{
+    font-weight:bold;
+    text-align:right;
+    padding-right:100px;
+    margin-bottom:50px;
+}
+
+.formoutline{
+    border:2px solid black;
+    margin:10px 200px;
+    border-radius:5px;
+}
+
+.heading{
+    text-align:center;
+}
+
+.flexdiv{
+    display:flex;
+    justify-content:space-between;
+    margin:15px 5px;
+}
+
+.datevalidate{
+    margin-top: 0px;
+    color:red;
+    font-size: 12px;
+    padding-left:50px;
+}
+
+.namevalidate{
+    margin-top: 0px;
+    color:red;
+    font-size: 12px;
+    padding-left:130px;
+}
+
+.coursevalidate{
+    margin-top: 0px;
+    color:red;
+    font-size: 12px;
+    padding-left:70px;
+}
+
+.receiptvalidate{
+    margin-top: 0px;
+    color:red;
+    font-size: 12px;
+    padding-left:70px;
+}
+
+.rupeesInWordsvalidate{
+    margin-top: 0px;
+    color:red;
+    font-size: 12px;
+    padding-left:150px;
+}
+
+.rupeesvalidate{
+    margin-top: 0px;
+    color:red;
+    font-size: 12px;
+    padding-left:70px;
+}
+
